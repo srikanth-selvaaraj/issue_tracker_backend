@@ -1,0 +1,2 @@
+DESCENDING_ORDER = 'desc'
+ASCENDING_ORDER = 'asc'
